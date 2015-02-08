@@ -5,7 +5,7 @@ How to use:
 
 Copy the script, naming it as maker.sh
 
-give it execute rights:
+Give it execute rights:
 chmod u+x maker.sh
 
 
