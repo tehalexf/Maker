@@ -12,7 +12,7 @@ Put it in a directory with the c files you wish to generate a makefile for.
 
 Run it using
 
-./maker.sh <name of executable you want>
+./maker.sh < name of executable you want >
 
 Ex:
 
